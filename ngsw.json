@@ -1,0 +1,96 @@
+{
+  "configVersion": 1,
+  "index": "https://ydegtyar.github.io/WTMSpecial/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://ydegtyar.github.io/WTMSpecial/favicon.ico",
+        "https://ydegtyar.github.io/WTMSpecial/index.html",
+        "https://ydegtyar.github.io/WTMSpecial/inline.0311940e1a6b03552158.bundle.js",
+        "https://ydegtyar.github.io/WTMSpecial/main.8618064232ba2afb5f66.bundle.js",
+        "https://ydegtyar.github.io/WTMSpecial/polyfills.ad37cd45a71cb38eee76.bundle.js",
+        "https://ydegtyar.github.io/WTMSpecial/styles.7aadbe291595ea5ddd3f.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/android-icon-144x144.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/android-icon-192x192.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/android-icon-36x36.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/android-icon-48x48.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/android-icon-72x72.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-114x114.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-120x120.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-144x144.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-152x152.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-180x180.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-57x57.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-60x60.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-72x72.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-76x76.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-precomposed.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/favicon-16x16.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/favicon-32x32.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/favicon-96x96.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/favicon.ico",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/ms-icon-144x144.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/ms-icon-150x150.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/ms-icon-310x310.png",
+        "https://ydegtyar.github.io/WTMSpecial/assets/icons/ms-icon-70x70.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "api-performance",
+      "patterns": [
+        "https:\\/\\/cataas\\.com\\/cat\\/"
+      ],
+      "strategy": "performance",
+      "maxSize": 100,
+      "maxAge": 259200000,
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "https://ydegtyar.github.io/WTMSpecial/inline.0311940e1a6b03552158.bundle.js": "4ae8d3ec17a41baf8e4fa50ca2f88d202c36cc3f",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/android-icon-144x144.png": "de9653c2b522722e2dfe7fbe3d7a9c68e196ffec",
+    "https://ydegtyar.github.io/WTMSpecial/main.8618064232ba2afb5f66.bundle.js": "3e18a4fe0447e2e96a5fcb00b64d92ac4a4d7d04",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/android-icon-192x192.png": "3db5070b1c2e12087647ce45d6e9b92fae473ac9",
+    "https://ydegtyar.github.io/WTMSpecial/polyfills.ad37cd45a71cb38eee76.bundle.js": "e74e95af4f1c82ce8cd07c3793477c67342510d8",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/android-icon-36x36.png": "a00a64fe6b9ccf4b3b7193ceef17d2c611f0755a",
+    "https://ydegtyar.github.io/WTMSpecial/styles.7aadbe291595ea5ddd3f.bundle.css": "49f87dc45cfcc88dac48b7275b7d092f18d4f4f3",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/android-icon-48x48.png": "325ec1180aad4083cd883fa1f273c8fe845fdf58",
+    "https://ydegtyar.github.io/WTMSpecial/favicon.ico": "72b063b2d69f92f4ddeae062e25975ef3fda0b82",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/android-icon-72x72.png": "4cb985e304e5a1d9a0bf6e253e972825f7e8edab",
+    "https://ydegtyar.github.io/WTMSpecial/index.html": "78740a0e4b98fc536581cb15f386e34da0c11a67",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-114x114.png": "f7388bc8b2ee3605b481e2efb357bd39ba2c7d05",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-120x120.png": "a8f699af47d64607fa824e805a88a89473302f67",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-144x144.png": "af0564f0816c77df8219aab743beb9a9352d1865",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-152x152.png": "853cba50ae234e616a689f1a82801f4d59933976",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-180x180.png": "f42a848673aac4bd76d8be9bbc649b15b4433477",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-57x57.png": "8db20ee96b43002b482c706972fb409d2fa90720",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-60x60.png": "89b41a3b4c7a018cfc58495f77b12b6dd19b55c5",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-72x72.png": "526492a3942f69ee1ac4e1f1e2631e7b912ba9ce",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-76x76.png": "96a15cd47406eaf786f385657644f8e16e9bd0e3",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon-precomposed.png": "0a85e12e05036aa9ffdb32d9ded7952e67d9dd7f",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/apple-icon.png": "0a85e12e05036aa9ffdb32d9ded7952e67d9dd7f",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/favicon-16x16.png": "3695d5d7a0c8a773aa47268dff7362f188b30d75",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/favicon-32x32.png": "032097caff20143f9695f7686c2cc3f7c0f6729f",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/favicon-96x96.png": "7f65874f1ea178a3743ba77936e63fa231c74951",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/favicon.ico": "72b063b2d69f92f4ddeae062e25975ef3fda0b82",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/ms-icon-144x144.png": "af0564f0816c77df8219aab743beb9a9352d1865",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/ms-icon-150x150.png": "8566b6f8cd694b6947151b36be952755ff6f7b65",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/ms-icon-310x310.png": "a6c9edd20d769c3673908a107b18929dbf6ef873",
+    "https://ydegtyar.github.io/WTMSpecial/assets/icons/ms-icon-70x70.png": "5178deac5a6a6b2d22229ac2e58ee5038892fed6"
+  }
+}
