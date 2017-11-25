@@ -2,17 +2,25 @@
 @import "~@angular/material/prebuilt-themes/indigo-pink.css";
 @import '~@angular/material/prebuilt-themes/pink-bluegrey.css';
 
+.tac {
+  text-align: center;
+}
+
+.top-space {
+  margin-top: 1rem;
+}
+
 .spinner-loader {
-  width: 60px;
-  height: 60px;
+  width: 130px;
+  height: 130px;
   margin: 60px auto;
   animation: rotate 1.4s infinite ease-in-out, background 1.4s infinite ease-in-out alternate;
 }
 
 @keyframes rotate {
-  0% {  transform: perspective(120px) rotateX(0deg) rotateY(0deg);  }
-  50% {  transform: perspective(120px) rotateX(-180deg) rotateY(0deg);  }
-  100% {  transform: perspective(120px) rotateX(-180deg) rotateY(-180deg);  }
+  0% {  transform: perspective(260px) rotateX(0deg) rotateY(0deg);  }
+  50% {  transform: perspective(260px) rotateX(-180deg) rotateY(0deg);  }
+  100% {  transform: perspective(260px) rotateX(-180deg) rotateY(-180deg);  }
 }
 @keyframes background {
   0% {  background-color: #27ae60;  }
